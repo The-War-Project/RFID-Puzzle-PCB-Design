@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name LD1117S50TR)(type KiCad)(uri "C:/Users/reyni/Desktop/ELECTRONICA TOOLS/Kicad footprints/LD1117S50TR.pretty")(options "")(descr ""))
+  (lib (name LP2985-33DBVR)(type KiCad)(uri "C:/Users/reyni/Desktop/ELECTRONICA TOOLS/Kicad footprints/LP2985-33DBVR.pretty")(options "")(descr ""))
+  (lib (name CSTCE16M0V53-R0)(type KiCad)(uri "C:/Users/reyni/Desktop/ELECTRONICA TOOLS/Kicad footprints/CSTCE16M0V53-R0.pretty")(options "")(descr ""))
+  (lib (name ATMEGA328P-AU)(type KiCad)(uri "C:/Users/reyni/Desktop/ELECTRONICA TOOLS/Kicad footprints/ATMEGA328P-AU.pretty")(options "")(descr ""))
+)
